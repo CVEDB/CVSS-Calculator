@@ -2,7 +2,7 @@
 
 CVSS (Common Vulnerability Scoring System) Calculator
 
-<a href="http://cvssjs.github.io/cvssjs">Standalone Calculator</a>
+<a href="http://cvedb.github.io/CVSS-Calculator">Standalone Calculator</a>
 
 CVSS-Calculator Version 0.3.1 beta
 
