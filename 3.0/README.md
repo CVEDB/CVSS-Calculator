@@ -2,14 +2,14 @@
 
 CVSS (Common Vulnerability Scoring System) Calculator
 
-<a href="http://cvssjs.github.io/cvssjs">Standalone Calculator</a>
+<a href="http://cvedb.github.io/CVSS-Calculator">Standalone Calculator</a>
 
 CVSSjs Version 0.2 beta
 
 Usage:
 
     //include the cvss.js script 
-    <script src="http://cvssjs.github.io/cvssjs/cvss.js"></script>
+    <script src="http://cvedb.github.io/CVSS-Calculator/cvss.js"></script>
     
     craete an HTML element with an id for eg.,
     <div id="cvssboard"/>
